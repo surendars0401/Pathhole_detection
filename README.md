@@ -2,7 +2,7 @@
 
 # YOLO Video and Image Processor
 
-This application is a video and image processing tool using PyQt5 for the graphical user interface and YOLO for object detection. The application allows users to drag and drop or browse video and image files for processing, and then it runs the YOLO model to detect objects in the media.
+This application is a video and image processing tool using PyQt5 for the graphical user interface and YOLO for Pathhole detection. The application allows users to drag and drop or browse video and image files for processing, and then it runs the YOLO model to detect objects in the media.
 
 ## Features
 
